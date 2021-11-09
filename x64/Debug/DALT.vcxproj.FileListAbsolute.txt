@@ -1,0 +1,6 @@
+D:\University\Năm 2\Kì 3\Đồ án\DALT\x64\Debug\DALT.exe
+D:\University\Năm 2\Kì 3\Đồ án\DALT\x64\Debug\DALT.pdb
+C:\Users\Em\Downloads\quanlydatvephim-main\quanlydatvephim-main\x64\Debug\DALT.exe
+C:\Users\Em\Downloads\quanlydatvephim-main\quanlydatvephim-main\x64\Debug\DALT.pdb
+C:\Users\PC\Downloads\quanlydatvephim\quanlydatvephim\x64\Debug\DALT.exe
+C:\Users\PC\Downloads\quanlydatvephim\quanlydatvephim\x64\Debug\DALT.pdb

@@ -1,0 +1,7 @@
+﻿  Function.cpp
+C:\Users\PC\Downloads\quanlydatvephim\quanlydatvephim\Function.cpp(162,6): warning C4102: 'Login': unreferenced label
+C:\Users\PC\Downloads\quanlydatvephim\quanlydatvephim\Function.cpp(164,10): warning C4101: 'ch': unreferenced local variable
+C:\Users\PC\Downloads\quanlydatvephim\quanlydatvephim\Function.cpp(502,9): warning C4101: 'stt_seat': unreferenced local variable
+C:\Users\PC\Downloads\quanlydatvephim\quanlydatvephim\Function.cpp(749,9): warning C4101: 'stt': unreferenced local variable
+C:\Users\PC\Downloads\quanlydatvephim\quanlydatvephim\Function.cpp(949,9): warning C4101: 'movieID': unreferenced local variable
+  DALT.vcxproj -> C:\Users\PC\Downloads\quanlydatvephim\quanlydatvephim\x64\Debug\DALT.exe
